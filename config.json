@@ -1,0 +1,13 @@
+{
+  "ownerNumber": ["6287864598751@s.whatsapp.net"],
+  "ownerName": ["Zor"],
+  "botName": "Horu-chitanda",
+  "sessionName": "session",
+  "pathimg": "./media/Chitanda.jpg",
+  "gamewaktu": 90,
+  "limitCount": 25,
+  "gcount": {
+	"prem": 35,
+	"user": 15
+  }
+}
