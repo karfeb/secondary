@@ -1,5 +1,6 @@
 # WhatsApp Bot with Library Baileys MD
 
+bot ini adalah horu bot base bot dilarang jual script ini kecuali di tambah fitur mu sendiri
 
 # Run On Heroku
 
